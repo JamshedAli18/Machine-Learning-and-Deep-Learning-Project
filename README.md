@@ -58,5 +58,4 @@ This project focuses on predicting the **closing stock prices of Apple Inc. (AAP
 3. Modify sequence length or LSTM layers to experiment further
 
 
----
 
