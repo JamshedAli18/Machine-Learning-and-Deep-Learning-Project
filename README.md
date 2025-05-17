@@ -7,7 +7,7 @@ This project focuses on predicting the **closing stock prices of Apple Inc. (AAP
 
 ## 🔍 Project Overview
 
-- ✅ **Dataset**: `aapl.us.txt` from Kaggle (contains historical stock data)
+- ✅ **Dataset**: `aapl.us.txt` from Kaggle (contains historical stock data) 
 - ✅ **Target**: Predict **future closing prices**
 - ✅ **Model**: Deep Learning using **LSTM**
 - ✅ **Tools**: Python, pandas, seaborn, matplotlib, TensorFlow/Keras
